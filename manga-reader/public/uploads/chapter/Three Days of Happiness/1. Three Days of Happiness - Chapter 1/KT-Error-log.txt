@@ -1,0 +1,2 @@
+Error: KT Manga - 1.jpg -> The request was aborted: The operation has timed out.
+Error: KT Manga - 2.jpg -> The remote server returned an error: (403) Forbidden.
